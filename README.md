@@ -1,4 +1,4 @@
-<h1>🌸 Hi, I’m Lorea (they/them)</h1>
+<h1>🌸 Hi, I’m Lorea</h1>
 
 <h3>✨ About Me</h3>
 🎨 I’m an aspiring front-end developer with a passion for building beautiful, responsive websites. This is my first step into tech, and I’m excited to keep learning and growing.
@@ -26,6 +26,10 @@ Learning JavaScript deeply
 
 Designing user-friendly interfaces
 
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cornious-on-the-cob)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>🎯 Goals</h3>
 
 ✅ Launch more client websites
@@ -38,7 +42,7 @@ Designing user-friendly interfaces
 
 I’m open to internships, freelance projects, and any collaboration. Let’s connect!
 
-📧 Email: ld6057a@american.edu
+📧 Email: loreadelatorre@gmail.com
 
 💼 LinkedIn: [https://www.linkedin.com/in/lorea-de-la-torre-74a18a34a/](https://www.linkedin.com/in/lorea-de-la-torre-74a18a34a/)
 <!--
