@@ -1,9 +1,6 @@
 ## <h1>🌸 Hi, I’m Lorea</h1>
 
 ## ✨ About Me
-🎨 I’m an aspiring front-end developer with a passion for building beautiful, responsive websites. This is my first step into tech, and I’m excited to keep learning and growing.
-
-
 💻 Currently, I’m focused on mastering HTML, CSS, and JavaScript while exploring UI/UX design. In the future, I plan to dive into game development to combine my love for art, storytelling, and interactive design.
 
 ## 🐾 Outside of coding, I’m passionate about
@@ -56,7 +53,7 @@ Designing user-friendly interfaces
 
 ## 📬 Reach Me 
 
-I’m open to internships, freelance projects, and any collaboration. Let’s connect!
+Let’s connect!
 
 📧 Email: loreadelatorre@gmail.com
 
