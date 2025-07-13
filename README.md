@@ -1,12 +1,12 @@
-<h1>🌸 Hi, I’m Lorea</h1>
+## <h1>🌸 Hi, I’m Lorea</h1>
 
-<h3>✨ About Me</h3>
+## ✨ About Me
 🎨 I’m an aspiring front-end developer with a passion for building beautiful, responsive websites. This is my first step into tech, and I’m excited to keep learning and growing.
 
 
 💻 Currently, I’m focused on mastering HTML, CSS, and JavaScript while exploring UI/UX design. In the future, I plan to dive into game development to combine my love for art, storytelling, and interactive design.
 
-<h3>🐾 Outside of coding, I’m passionate about</h3>
+## 🐾 Outside of coding, I’m passionate about
 
 🎨 Art and photography
 
@@ -18,7 +18,7 @@
 
 🎮 Video games (hope to make one someday!)
 
-<h3>🌱 What I’m Working On</h3>
+## 🌱 What I’m Working On
 
 Building my front-end skills with real-world projects
 
@@ -26,11 +26,18 @@ Learning JavaScript deeply
 
 Designing user-friendly interfaces
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sad_lemon_thing) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@cornious-on-the-cob) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loreadelatorre@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=plastic&logo=Aseprite&logoColor=#7D929E) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cornious-on-the-cob&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cornious-on-the-cob&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cornious-on-the-cob&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cornious-on-the-cob)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3>🎯 Goals</h3>
+## 🎯 Goals
 
 ✅ Launch more client websites
 
@@ -38,7 +45,16 @@ Designing user-friendly interfaces
 
 🌟 Build a personal portfolio I’m proud of
 
-<h3>📬 Reach Me</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cornious-on-the-cob&limit=5&theme=bear&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cornious-on-the-cob&icon=7&color=5)](https://visitcount.itsvg.in)
+
+## 📬 Reach Me 
 
 I’m open to internships, freelance projects, and any collaboration. Let’s connect!
 
