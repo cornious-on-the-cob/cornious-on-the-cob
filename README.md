@@ -3,18 +3,6 @@
 ## ✨ About Me
 💻 Currently, I’m focused on mastering HTML, CSS, and JavaScript while exploring UI/UX design. In the future, I plan to dive into game development to combine my love for art, storytelling, and interactive design.
 
-## 🐾 Outside of coding, I’m passionate about
-
-🎨 Art and photography
-
-🐱 My two cats (ask me about them!)
-
-🏋️ Working out
-
-🎶 Music of all kinds
-
-🎮 Video games (hope to make one someday!)
-
 ## 🌱 What I’m Working On
 
 Building my front-end skills with real-world projects
@@ -41,9 +29,6 @@ Designing user-friendly interfaces
 🎮 Start learning game development basics (Unity, C#, etc.)
 
 🌟 Build a personal portfolio I’m proud of
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cornious-on-the-cob&limit=5&theme=bear&combine_all_yearly_contributions=true)
